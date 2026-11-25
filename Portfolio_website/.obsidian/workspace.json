@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "compositions/about/About.md",
+                "file": "compositions/home/Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "About"
+              "title": "Home"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "compositions/about/About.md",
+                "file": "compositions/home/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "compositions/about/About.md",
+                "file": "compositions/home/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "compositions/about/About.md",
+                "file": "compositions/home/Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,12 +190,18 @@
   },
   "active": "1384e585108a4ba0",
   "lastOpenFiles": [
-    "Overview/Overview.md",
+    "compositions/about/About.md",
+    "assets/experience.png",
+    "compositions/experience/Experience.md",
     "compositions/contact/Contact.md",
+    "assets/contact.png",
+    "assets/project-detail-loyalty-stars.png",
+    "assets/projects.png",
+    "assets/about.png",
+    "assets/home.png",
+    "Overview/Overview.md",
     "compositions/projects/loyalty-stars/Loyalty-Stars.md",
     "compositions/projects/Projects.md",
-    "compositions/experience/Experience.md",
-    "compositions/about/About.md",
     "compositions/home/Home.md",
     "compositions/contact",
     "compositions/projects/loyalty-stars",
@@ -210,8 +216,6 @@
     "Overview/Pasted image 20261125122452.png",
     "Overview/Pasted image 20261125122559.png",
     "Overview/Pasted image 20261125122553.png",
-    "Overview/Pasted image 20261125122547.png",
-    "Overview/Pasted image 20261125122539.png",
-    "Overview/Pasted image 20261125122520.png"
+    "Overview/Pasted image 20261125122547.png"
   ]
 }
