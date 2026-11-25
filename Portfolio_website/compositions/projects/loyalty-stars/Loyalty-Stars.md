@@ -1,0 +1,1 @@
+# Loyalty Stars project detail
