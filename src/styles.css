@@ -27,6 +27,45 @@
 	--color-terracotta-hover: #8f4430;
 	--color-terracotta: #c66b4e;
 	--color-terracotta-tint: #f3ddd3;
+
+	/* Typography */
+	--font-sans: "Plus Jakarta Sans", system-ui, sans-serif;
+
+	/* Display and headings */
+	--text-display: clamp(40px, 5.4vw, 68px);
+	--text-h1: clamp(36px, 4.6vw, 56px);
+	--text-h2-xl: 44px;
+	--text-h2: 40px;
+	--text-h2-sm: 32px;
+	--text-h3: 22px;
+	--text-stat: 40px;
+
+	/* Body */
+	--text-lead: 19px;
+	--text-card: 17px;
+	--text-body: 16px;
+	--text-ui: 15px;
+	--text-small: 14px;
+	--text-tag: 13px;
+
+	/* Weights */
+	--weight-regular: 400;
+	--weight-medium: 500;
+	--weight-semibold: 600;
+	--weight-bold: 700;
+	--weight-black: 800;
+
+	/* Line heights */
+	--leading-display: 1.05;
+	--leading-heading: 1.15;
+	--leading-body: 1.6;
+	--leading-card: 1.55;
+
+	/* Letter spacing */
+	--tracking-display: -0.03em;
+	--tracking-heading: -0.02em;
+	--tracking-eyebrow: 0.08em;
+	--tracking-caps: 0.06em;
 }
 
 *,
@@ -42,5 +81,8 @@ body {
 
 body {
   margin: 0;
-  font-family: system-ui, sans-serif;
+  font-family: var(--font-sans);
+  font-size: var(--text-body);
+  font-weight: var(--weight-regular);
+  line-height: var(--leading-body);
 }
